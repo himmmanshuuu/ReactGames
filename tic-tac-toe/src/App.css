@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.Block {
+  width: 150px;
+  height: 150px;
+  background-color: grey;
+  border: 5px solid black;
+  background-size: cover;
+  display: inline-block;
+}
+
+.marks1{
+  background-image: url("./images/cross.png");
+}
+
+.marks2 {
+  background-image: url("./images/dott.png");
+}
